@@ -28,6 +28,10 @@ columns:
     clientname: Embryo Orientation
     include: yes
 
+  - Experimental Condition [Hybridization Probe]
+    clientname: Hybridization Probe
+    include: yes
+
   - name: Comment [Publication Figure]
     clientname: Publication Figure
     include: yes
