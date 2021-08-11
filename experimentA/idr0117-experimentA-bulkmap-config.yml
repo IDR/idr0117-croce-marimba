@@ -1,0 +1,75 @@
+---
+name: idr0117-croce-marimba/experimentA/
+
+version: 1
+
+defaults:
+  include: no
+  type: string
+  includeclient: yes
+  visible: yes
+  omitempty: yes
+
+columns:
+
+  - name: Characteristics [Developmental Stage]
+    clientname: Developmental Stage
+    include: yes
+
+  - name: Experimental Condition [Genotype]
+    clientname: Genotype
+    include: yes
+
+  - name: Comment [Gene Expression Pattern]
+    clientname: Gene Expression Pattern
+    include: yes
+
+  - name: Comment [Embryo Orientation]
+    clientname: Embryo Orientation
+    include: yes
+
+  - name: Comment [Publication Figure]
+    clientname: Publication Figure
+    include: yes
+
+  - name: Comment [Image File Comments]
+    clientname: Image File Comments
+    include: yes
+
+
+  ######################################################################
+  # mapr groups
+  ######################################################################
+
+  - group:
+      namespace: openmicroscopy.org/mapr/organism
+      columns:
+        - name: Characteristics [Organism]
+          clientname: Organism
+          include: yes
+
+  - group:
+      namespace: openmicroscopy.org/mapr/gene
+      columns:
+      - name: Comment [Gene Identifier]
+        clientname: Gene Identifier
+        include: yes
+      - name: Comment [Gene Identifier]
+        clientname: Gene Identifier URL
+        clientvalue: https://www.ncbi.nlm.nih.gov/nuccore/{{ value|urlencode }}
+        include: yes
+      - name: Comment [Gene Symbol]
+        clientname: Gene Symbol
+        include: yes
+
+
+advanced:
+  ignore_missing_primary_key: yes
+  primary_group_keys:
+    - namespace: openmicroscopy.org/mapr/organism
+      keys:
+        - Organism
+    - namespace: openmicroscopy.org/mapr/gene
+      keys:
+        - Gene Identifier
+        - Gene Symbol
