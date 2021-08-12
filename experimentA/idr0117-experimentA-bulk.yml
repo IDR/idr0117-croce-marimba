@@ -1,0 +1,9 @@
+---
+continue: true
+transfer: "ln_s"
+skip: "checksum"
+columns:
+  - target
+  - path
+  - name
+path: "idr0117-experimentA-filePaths.tsv"
