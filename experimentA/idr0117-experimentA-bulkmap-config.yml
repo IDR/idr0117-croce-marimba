@@ -28,7 +28,7 @@ columns:
     clientname: Embryo Orientation
     include: yes
 
-  - Experimental Condition [Hybridization Probe]
+  - name: Experimental Condition [Hybridization Probe]
     clientname: Hybridization Probe
     include: yes
 
