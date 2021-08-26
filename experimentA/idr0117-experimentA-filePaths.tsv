@@ -1,20 +1,20 @@
-Project:name:idr0117-croce-marimba/Dataset:name:Mature oocyte	/uod/idr/filesets/idr0117-croce-marimba/20210812-ftp/SkeT egg.tif	SkeT egg
-Project:name:idr0117-croce-marimba/Dataset:name:Mature oocyte	/uod/idr/filesets/idr0117-croce-marimba/20210812-ftp/SkeT egg sens.tif	SkeT egg sens
-Project:name:idr0117-croce-marimba/Dataset:name:16-cell stage	/uod/idr/filesets/idr0117-croce-marimba/20210812-ftp/SkeT 16c.tif	SkeT 16c
-Project:name:idr0117-croce-marimba/Dataset:name:16-cell stage	/uod/idr/filesets/idr0117-croce-marimba/20210812-ftp/SkeT 16c sens.tif	SkeT 16c sens
-Project:name:idr0117-croce-marimba/Dataset:name:Very early blastula	/uod/idr/filesets/idr0117-croce-marimba/20210812-ftp/SkeT vEB.tif	SkeT vEB
-Project:name:idr0117-croce-marimba/Dataset:name:Very early blastula	/uod/idr/filesets/idr0117-croce-marimba/20210812-ftp/SkeT vEB sens.tif	SkeT vEB sens
-Project:name:idr0117-croce-marimba/Dataset:name:Early blastula	/uod/idr/filesets/idr0117-croce-marimba/20210812-ftp/SkeT EB.tif	SkeT EB
-Project:name:idr0117-croce-marimba/Dataset:name:Early blastula	/uod/idr/filesets/idr0117-croce-marimba/20210812-ftp/SkeT Eb veg.tif	SkeT EB veg
-Project:name:idr0117-croce-marimba/Dataset:name:Early blastula	/uod/idr/filesets/idr0117-croce-marimba/20210812-ftp/HE EB.tif	HE EB
-Project:name:idr0117-croce-marimba/Dataset:name:Early blastula	/uod/idr/filesets/idr0117-croce-marimba/20210812-ftp/HE SkeT EB.tif	HE SkeT EB
-Project:name:idr0117-croce-marimba/Dataset:name:Swimming blastula	/uod/idr/filesets/idr0117-croce-marimba/20210812-ftp/SkeT SB.tif	SkeT SB
-Project:name:idr0117-croce-marimba/Dataset:name:Swimming blastula	/uod/idr/filesets/idr0117-croce-marimba/20210812-ftp/SkeT SB sens.tif	SkeT SB sens
-Project:name:idr0117-croce-marimba/Dataset:name:Mesenchyme blastula	/uod/idr/filesets/idr0117-croce-marimba/20210812-ftp/SkeT MB.tif	SkeT MB
-Project:name:idr0117-croce-marimba/Dataset:name:Mesenchyme blastula	/uod/idr/filesets/idr0117-croce-marimba/20210812-ftp/SkeT MB sens.tif	SkeT MB sens
-Project:name:idr0117-croce-marimba/Dataset:name:Mid gastrula	/uod/idr/filesets/idr0117-croce-marimba/20210812-ftp/SkeT G.tif	SkeT G
-Project:name:idr0117-croce-marimba/Dataset:name:Mid gastrula	/uod/idr/filesets/idr0117-croce-marimba/20210812-ftp/SkeT G sens.tif	SkeT G sens
-Project:name:idr0117-croce-marimba/Dataset:name:Prism	/uod/idr/filesets/idr0117-croce-marimba/20210812-ftp/SkeT Prism.tif	SkeT Prism
-Project:name:idr0117-croce-marimba/Dataset:name:Prism	/uod/idr/filesets/idr0117-croce-marimba/20210812-ftp/SkeT Prism Sens.tif	SkeT Prism sens
-Project:name:idr0117-croce-marimba/Dataset:name:Early pluteus	/uod/idr/filesets/idr0117-croce-marimba/20210812-ftp/SkeT Plut.tif	SkeT Plut
-Project:name:idr0117-croce-marimba/Dataset:name:Early pluteus	/uod/idr/filesets/idr0117-croce-marimba/20210812-ftp/SkeT Plut sens.tif	SkeT Plut sens
+Project:name:idr0117-croce-marimba/experimentA/Dataset:name:Mature oocyte	/uod/idr/filesets/idr0117-croce-marimba/20210812-ftp/SkeT egg.tif	SkeT egg
+Project:name:idr0117-croce-marimba/experimentA/Dataset:name:Mature oocyte	/uod/idr/filesets/idr0117-croce-marimba/20210812-ftp/SkeT egg sens.tif	SkeT egg sens
+Project:name:idr0117-croce-marimba/experimentA/Dataset:name:16-cell stage	/uod/idr/filesets/idr0117-croce-marimba/20210812-ftp/SkeT 16c.tif	SkeT 16c
+Project:name:idr0117-croce-marimba/experimentA/Dataset:name:16-cell stage	/uod/idr/filesets/idr0117-croce-marimba/20210812-ftp/SkeT 16c sens.tif	SkeT 16c sens
+Project:name:idr0117-croce-marimba/experimentA/Dataset:name:Very early blastula	/uod/idr/filesets/idr0117-croce-marimba/20210812-ftp/SkeT vEB.tif	SkeT vEB
+Project:name:idr0117-croce-marimba/experimentA/Dataset:name:Very early blastula	/uod/idr/filesets/idr0117-croce-marimba/20210812-ftp/SkeT vEB sens.tif	SkeT vEB sens
+Project:name:idr0117-croce-marimba/experimentA/Dataset:name:Early blastula	/uod/idr/filesets/idr0117-croce-marimba/20210812-ftp/SkeT EB.tif	SkeT EB
+Project:name:idr0117-croce-marimba/experimentA/Dataset:name:Early blastula	/uod/idr/filesets/idr0117-croce-marimba/20210812-ftp/SkeT Eb veg.tif	SkeT EB veg
+Project:name:idr0117-croce-marimba/experimentA/Dataset:name:Early blastula	/uod/idr/filesets/idr0117-croce-marimba/20210812-ftp/HE EB.tif	HE EB
+Project:name:idr0117-croce-marimba/experimentA/Dataset:name:Early blastula	/uod/idr/filesets/idr0117-croce-marimba/20210812-ftp/HE SkeT EB.tif	HE SkeT EB
+Project:name:idr0117-croce-marimba/experimentA/Dataset:name:Swimming blastula	/uod/idr/filesets/idr0117-croce-marimba/20210812-ftp/SkeT SB.tif	SkeT SB
+Project:name:idr0117-croce-marimba/experimentA/Dataset:name:Swimming blastula	/uod/idr/filesets/idr0117-croce-marimba/20210812-ftp/SkeT SB sens.tif	SkeT SB sens
+Project:name:idr0117-croce-marimba/experimentA/Dataset:name:Mesenchyme blastula	/uod/idr/filesets/idr0117-croce-marimba/20210812-ftp/SkeT MB.tif	SkeT MB
+Project:name:idr0117-croce-marimba/experimentA/Dataset:name:Mesenchyme blastula	/uod/idr/filesets/idr0117-croce-marimba/20210812-ftp/SkeT MB sens.tif	SkeT MB sens
+Project:name:idr0117-croce-marimba/experimentA/Dataset:name:Mid gastrula	/uod/idr/filesets/idr0117-croce-marimba/20210812-ftp/SkeT G.tif	SkeT G
+Project:name:idr0117-croce-marimba/experimentA/Dataset:name:Mid gastrula	/uod/idr/filesets/idr0117-croce-marimba/20210812-ftp/SkeT G sens.tif	SkeT G sens
+Project:name:idr0117-croce-marimba/experimentA/Dataset:name:Prism	/uod/idr/filesets/idr0117-croce-marimba/20210812-ftp/SkeT Prism.tif	SkeT Prism
+Project:name:idr0117-croce-marimba/experimentA/Dataset:name:Prism	/uod/idr/filesets/idr0117-croce-marimba/20210812-ftp/SkeT Prism Sens.tif	SkeT Prism sens
+Project:name:idr0117-croce-marimba/experimentA/Dataset:name:Early pluteus	/uod/idr/filesets/idr0117-croce-marimba/20210812-ftp/SkeT Plut.tif	SkeT Plut
+Project:name:idr0117-croce-marimba/experimentA/Dataset:name:Early pluteus	/uod/idr/filesets/idr0117-croce-marimba/20210812-ftp/SkeT Plut sens.tif	SkeT Plut sens
